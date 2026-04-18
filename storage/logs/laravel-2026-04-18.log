@@ -1,0 +1,2 @@
+[2026-04-18 16:30:49] local.INFO: API Activity {"user_id":1,"method":"POST","endpoint":"/api/v1/auth/login","ip":"127.0.0.1","status":200,"timestamp":"2026-04-18T16:30:49+00:00"} 
+[2026-04-18 16:30:54] local.INFO: API Activity {"user_id":1,"method":"GET","endpoint":"/api/v1/projects/1/tasks","ip":"127.0.0.1","status":200,"timestamp":"2026-04-18T16:30:54+00:00"} 
